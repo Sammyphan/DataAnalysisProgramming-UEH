@@ -3,7 +3,7 @@
 
 Nhóm sinh viên thực hiện bao gồm 4 thành viên, bao gồm:
 
-*Phan Đình Nhân
-*Trần Phạm Hải Nam
-*Lý Minh Nguyên
-*Võ Minh Nguyên
+* Phan Đình Nhân
+* Trần Phạm Hải Nam
+* Lý Minh Nguyên
+* Võ Minh Nguyên
